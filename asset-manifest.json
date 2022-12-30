@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/omgreact/static/css/main.22941023.css",
-    "main.js": "/omgreact/static/js/main.7c1a12c3.js",
+    "main.js": "/omgreact/static/js/main.e22e4195.js",
     "index.html": "/omgreact/index.html",
     "main.22941023.css.map": "/omgreact/static/css/main.22941023.css.map",
-    "main.7c1a12c3.js.map": "/omgreact/static/js/main.7c1a12c3.js.map"
+    "main.e22e4195.js.map": "/omgreact/static/js/main.e22e4195.js.map"
   },
   "entrypoints": [
     "static/css/main.22941023.css",
-    "static/js/main.7c1a12c3.js"
+    "static/js/main.e22e4195.js"
   ]
 }
