@@ -14,7 +14,7 @@ function Square(props){
         className="square" 
         onClick={props.onClick}
       >
-        <span style={{color:'green'}}>{props.value} </span>
+        <span style={{color:'red'}}>{props.value} </span>
       </button>
     );
   }
